@@ -1,4 +1,4 @@
--I'm learning code, currently learning the basics on portugol.
+-I'm learning code, currently learning react
 
 ---------------------------------------------------------------
 
